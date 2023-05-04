@@ -1,0 +1,2 @@
+# RPGMaze
+Simple Maze game.
